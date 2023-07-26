@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **ekta.arora.2512@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/19NIUhpU9nJeU3LJvFULwaJD-qJvXM2L7/view?usp=sharing](https://drive.google.com/file/d/19NIUhpU9nJeU3LJvFULwaJD-qJvXM2L7/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1Asrz8GBjmW-3VybJFNemdewx22fNshgU/view?usp=sharing)
 
 - ⚡ Fun fact **I am funny!**
 
