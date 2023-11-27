@@ -1,7 +1,7 @@
-![logo](https://github.com/LakshayDhoundiyal/LakshayDhoundiyal/blob/main/banner.png)
+![logo](https://media.licdn.com/dms/image/D4D16AQG3tsrVya9Xug/profile-displaybackgroundimage-shrink_350_1400/0/1695491544330?e=1706745600&v=beta&t=VPkk9gmIqzq0assYdTC5_JDXPWwB3y5_G2nGM9-ipOs)
 
-<h1 align="center">I'm Lakshay Dhoundiyal</h1>
-<h3 align="center">Ethical Hacker & Web Developer</h3>
+<h1 align="center">I'm Ekta Arora</h1>
+<h3 align="center">Java & Web Developer</h3>
 
 <img align="right" alt="coding" width="410" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 
