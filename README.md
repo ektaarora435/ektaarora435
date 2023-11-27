@@ -15,7 +15,7 @@
 
 - 📫 Reach me through Email : **ekta.arora.2512@gmail.com**
 
-- ⚡Fun Fact: I am funny!**
+- ⚡Fun Fact: **I am funny!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
