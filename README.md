@@ -3,7 +3,7 @@
 <h1 align="center">I'm Ekta Arora</h1>
 <h3 align="center">Java & Web Developer</h3>
 
-<img align="right" alt="coding" width="410" src="https://assets-v2.lottiefiles.com/a/f75ac2f2-116a-11ee-aa38-a35154041321/UTSEH078Aw.gif">
+<img align="right" alt="coding" width="410" src="https://img.freepik.com/premium-vector/girl-coding-designing-with-pc-illustration_418302-2383.jpg?w=360">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lakshaydhoundiyal&label=Profile%20views&color=0e75b6&style=flat" alt="lakshaydhoundiyal" /> </p>
 
